@@ -1,0 +1,9 @@
+{
+  "name": "azure-reader",
+  "version": "0.0.1",
+  "dependencies":{
+    "jquery":"^2.2.0",
+    "angular": "^1.4.9",
+    "ui-router":"^0.2.15"
+  }
+}
